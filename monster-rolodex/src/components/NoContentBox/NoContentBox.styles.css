@@ -1,0 +1,10 @@
+.no-content-box-container {
+  width: 75%;
+  min-height: 20rem;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #95dada;
+  border-radius: 4px;
+}
